@@ -34,8 +34,7 @@ Responsive Design – optimized for:
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/<your_account>/namu-1.git, 
-cd namu-1
+git clone  https://github.com/viktoriamyhailiak/NAMU-1.git, cd namu-1
 
 2. Install dependencies
 npm install or npm i
